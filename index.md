@@ -30,3 +30,10 @@ A style covers the prose asked for, not code, commands or quotes.
 - [[runbook-writing-style]]: pages that tell an agent what to do.
 - [[ste-writing-style]]: Simplified Technical English, for strict procedures and specs.
 - [[telegraphic-writing-style]]: periodic reviews and status notes.
+
+## Personal notes
+
+The owner's own thinking, not guidance for agents.
+
+- [[frameworks]]: frameworks the owner uses. Empty so far.
+- [[mental-models]]: condensed principles, each linked to the mental model behind it, such as bottlenecks.
