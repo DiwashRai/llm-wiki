@@ -37,3 +37,4 @@ The owner's own thinking, not guidance for agents.
 
 - [[frameworks]]: frameworks the owner uses. Empty so far.
 - [[mental-models]]: condensed principles, each linked to the mental model behind it, such as bottlenecks.
+- `unprocessed/`: raw captures awaiting processing. Unverified, and not listed individually.
