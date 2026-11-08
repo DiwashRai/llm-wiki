@@ -8,9 +8,10 @@ Owner's personal notes, not agent guidance. See also [[frameworks]].
 # Principles
 
 - Ideas are not the [[#Bottlenecks|bottleneck]] in a large organisation.
-  - People who are good executors are more valuable than people who are good at coming up with ideas.
-- In a large organisation, solving a problem once for many teams beats each team solving it alone. See
-  [[#Leverage|leverage]].
+  - People who are good executors are more valuable than people who are good at coming up with
+    ideas.
+- In a large organisation, solving a problem once for many teams beats each team solving it alone.
+  See [[#Leverage|leverage]].
   - People who build platforms that others can use are more valuable.
   - A good platform hides everything that isn't about the user's problem behind a simple interface.
 
